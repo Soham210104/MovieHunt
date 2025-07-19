@@ -1,12 +1,33 @@
-# React + Vite
+# 🎬 MovieHunt
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A responsive and dynamic movie search web application built using **React.js**, integrated with **The Movie Database (TMDB) API** for real-time movie data, and **Appwrite** for tracking user search behavior and analytics.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Working Demo
 
-## Expanding the ESLint configuration
+https://github.com/user-attachments/assets/a221bbbb-99c6-4434-950b-cb813a182900
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 📌 Features
+
+- 🔍 Real-time movie search using TMDB API
+- 🎥 Displays popular movies on page load
+- 🧠 Search term tracking using Appwrite backend
+- 🧩 Modular components (Search, MovieCard, Spinner)
+- 📱 Fully responsive and mobile-friendly UI
+- 🌐 Secure API integration using environment variables
+
+---
+
+## 🛠️ Tech Stack
+
+- **Frontend:** React.js, Tailwind CSS, JavaScript, Vite
+- **API:** TMDB API (The Movie Database)
+- **Backend:** Appwrite (for database and analytics)
+- **Tools:** Postman, Git, GitHub
+
+---
+
+
